@@ -17,10 +17,9 @@ AcehX is introduced in the paper:
 A large unlabeled Acehnese corpus collected from:
 
 - literature, folklore, oral traditions  
-- cultural and customary law texts  
+- traditional customs and customary law texts  
 - Wikipedia  
 - YouTube comments  
-- digitized offline documents
 
 | Dataset | Type | Sentences |
 |--------|---------|----------|
