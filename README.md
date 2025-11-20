@@ -1,6 +1,7 @@
 # AcehX
 AcehX is a high-quality Acehnese language resource designed to support NLP research,
-especially sentiment analysis for low-resource Indonesian regional languages.
+including Masked Language Modeling (MLM) and sentiment analysis for low-resource Indonesian regional languages.
+
 This repository contains:
 
 - **AcehX Corpus** (unlabeled dataset)
@@ -8,12 +9,12 @@ This repository contains:
 - **AcehX Tokenizer Vocabulary**
 - **AcehXBERT (MLM + Sentiment Classification Model)**
 
-AcehX is introduced in the paper:
+AcehXBERT is introduced in the paper:
 
 **“Development of AcehX for Sentiment Analysis Using a BERT-Based Model” (2025)**
 
 ## 📚 Dataset Overview
-### **1. AcehX Corpus (MLM)**
+### **1. AcehX Corpus for MLM**
 A large unlabeled Acehnese corpus collected from:
 
 - literature, folklore, oral traditions  
@@ -27,7 +28,7 @@ A large unlabeled Acehnese corpus collected from:
 
 Used for MLM pretraining of AcehXBERT.
 
-### **2. AcehX Sentiment Dataset**
+### **2. AcehX Sentiment for Sentiment Analysis**
 Manually labeled by native Acehnese speakers into:
 
 - Positive  
