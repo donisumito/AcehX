@@ -15,6 +15,10 @@ AcehXBERT is introduced in the paper:
 
 ## 📚 Dataset Overview
 ### **1. AcehX Corpus for MLM**
+The full AcehX corpus contains 63,367 sentences.
+
+In this study, 41,627 sentences were used for MLM pretraining of AcehXBERT.
+
 A large unlabeled Acehnese corpus collected from:
 
 - literature, folklore, oral traditions  
@@ -22,7 +26,7 @@ A large unlabeled Acehnese corpus collected from:
 - Wikipedia  
 - YouTube comments  
 
-| Dataset | Type | Sentences |
+| Dataset | Type | Sentences | 
 |--------|---------|----------|
 | AcehX Corpus | Unlabeled (MLM) | **41,627** |
 
