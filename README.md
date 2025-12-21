@@ -82,6 +82,23 @@ AcehXBERT is created by:
 
 AcehXBERT outperforms existing Indonesian and multilingual BERT models.
 
+# Acknowledgement
+
+The **AcehXBERT** dataset was collaboratively collected by the author and
+the following contributors:
+
+- Doni Sumito Sukiswo
+- Muhammad Ruski
+- Habib Asy Muhyi
+- Muttaqin
+- Iskandar
+- Saryulis
+- Maria Ulfa
+- Fadhilah Syafa
+- Nurul Asmi Amalia
+- Aida Afira
+- Hafizha Dini Giandra
+
 # Citation
 You can find the full details in our paper:  
 **[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://)**
