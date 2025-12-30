@@ -45,7 +45,25 @@ Manually labeled by native Acehnese speakers into:
 
 Used for fine-tuning AcehXBERT classification model.
 
----
+### **3. Distribution of sentiment dataset labels**
+
+| Sub Dataset | Positive | Negative | Neutral | Total Sentences |
+|--------|---------|----------|----------|----------|
+| Training | 884 | 931 | 1,537 | 3,352 |
+| Validation | 75 | 76 | 111 | 262 |
+| Test | 29 | 34 | 48 | 111 |
+| **Total** | **998** | **1,041** | **1,696** | **3,725** |
+
+
+## Hyperparameters classification model.
+
+| Hyperparameters | Value |
+|--------|---------|
+| Sequence length | 128 |
+| Batch size | 8 |
+| Epoch | 10 |
+| Learning rate | 5e-5 |
+
 
 ## 🔤 AcehX Tokenizer
 
@@ -57,7 +75,6 @@ The IndoBERT tokenizer is extended with Acehnese vocabulary.
 
 This significantly reduces OOV (out-of-vocabulary) tokens and improves Acehnese representation.
 
----
 
 ## 🧠 AcehXBERT Model
 
@@ -91,17 +108,19 @@ AcehXBERT outperforms existing Indonesian and multilingual BERT models.
 The **AcehXBERT** dataset was collaboratively collected by the author and
 the following contributors:
 
-- Doni Sumito Sukiswo
-- Muhammad Ruski
-- Habib Asy Muhyi
-- Muttaqin
-- Iskandar
-- Saryulis
-- Maria Ulfa
-- Fadhilah Syafa
-- Nurul Asmi Amalia
-- Aida Afira
-- Hafizha Dini Giandra
+| Name | Affiliation |
+|--------|----------|
+| Doni Sumito Sukiswo | Universitas Syiah Kuala (USK) |
+| Muhammad Ruski | Universitas Syiah Kuala (USK) |
+| Habib Asy Muhyi | Universitas Syiah Kuala (USK) |
+| Muttaqin | Universitas Syiah Kuala (USK) |
+| Iskandar | Universitas Syiah Kuala (USK) |
+| Saryulis | Universitas Syiah Kuala (USK) |
+| Maria Ulfa | Universitas Syiah Kuala (USK) |
+| Fadhilah Syafa | Universitas Syiah Kuala (USK) |
+| Nurul Asmi Amalia | Universitas Syiah Kuala (USK) |
+| Aida Afira | Universitas Syiah Kuala (USK) |
+| Hafizha Dini Giandra | Universitas Syiah Kuala (USK) |
 
 # Citation
 You can find the full details in our paper:  
