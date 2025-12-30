@@ -1,4 +1,4 @@
-# AcehX
+<img width="137" height="52" alt="image" src="https://github.com/user-attachments/assets/559796a8-ad13-4a9b-99c3-bf3529057eca" /># AcehX
 AcehX is a high-quality Acehnese language resource designed to support NLP research,
 including Masked Language Modeling (MLM) and sentiment analysis for low-resource Indonesian regional languages.
 
@@ -98,7 +98,9 @@ AcehXBERT is created by:
 |--------|----------|
 | **AcehXBERT** | **82.50%** |
 | NusaBERT Base | 75.36% |
+| BERT Base | 73.78% |
 | IndoBERT Base | 73.00% |
+| RoBERTa Base | 72,77% |
 
 
 AcehXBERT outperforms existing Indonesian and multilingual BERT models.
