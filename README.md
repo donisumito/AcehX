@@ -55,7 +55,7 @@ Used for fine-tuning AcehXBERT classification model.
 | **Total** | **998** | **1,041** | **1,696** | **3,725** |
 
 
-## Hyperparameters classification model.
+## Hyperparameters classification model
 
 | Hyperparameters | Value |
 |--------|---------|
