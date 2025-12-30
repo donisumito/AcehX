@@ -133,7 +133,7 @@ If you use AcehX or AcehXBERT, please cite:
 @inproceedings{sukiswo-etal-2025-acehx,
     title     = {Development of AcehX for Sentiment Analysis Using a BERT-Based Model},
     author    = {Doni Sumito Sukiswo and Hammam Riza and Muhammad Subianto
-                 and Taufik Fuadi Abidin and Afnan},
+                 and Taufik Fuadi Abidin and Afnan Afnan},
     booktitle = "Proceedings of the The 28th International Conference of Oriental COCOSDA ",
     month = november,
     year      = {2025}
