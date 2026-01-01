@@ -7,11 +7,12 @@ This repository contains:
 - **AcehX Corpus** (unlabeled dataset)
 - **AcehX Sentiment Dataset** (labeled dataset)
 - **AcehX Tokenizer Vocabulary**
-- **[AcehXBERT](https://huggingface.co/doniNlp/AcehXBERT-base) (MLM + Sentiment Classification Model)**
+- **[AcehXBERT-base](https://huggingface.co/doniNlp/AcehXBERT-base) (MLM Model)**
+- **[AcehXBERT-sentiment](https://huggingface.co/doniNlp/AcehXBERT-sentiment) Classification Model)**
 
 AcehXBERT is introduced in the paper:
 
-**“Development of AcehX for Sentiment Analysis Using a BERT-Based Model” (2025)**
+**“[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://)” (2025)**
 
 ## 📚 Dataset Overview
 ### **1. AcehX Corpus for MLM**
