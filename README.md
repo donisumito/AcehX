@@ -106,6 +106,16 @@ AcehXBERT is created by:
 
 AcehXBERT outperforms existing Indonesian and multilingual BERT models.
 
+# Authors
+- Doni Sumito Sukiswo (Universitas Syiah Kuala (USK))
+- Hammam Riza* (National Research and Innovation Agency (BRIN))
+- Muhammad Subianto (Universitas Syiah Kuala (USK))
+- Taufik Fuadi Abidin (Universitas Syiah Kuala (USK))
+- Afnan (Universitas Syiah Kuala (USK))
+
+#### * Corresponding Author
+
+
 # Acknowledgement
 
 The **AcehXBERT** dataset was collaboratively collected by the author and
