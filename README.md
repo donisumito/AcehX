@@ -15,6 +15,11 @@ AcehXBERT is introduced in the paper:
 **“[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://)” (2025)**
 
 ## 📚 Dataset Overview
+
+<p align="center">
+    <img src="https://github.com/donisumito/AcehX/blob/main/AcehX.png" alt="AcehX"/>
+</p>
+
 ### **1. AcehX Corpus for MLM**
 The full AcehX corpus contains 63,367 sentences.
 
