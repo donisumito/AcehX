@@ -8,7 +8,7 @@ This repository contains:
 - **AcehX Sentiment Dataset** (labeled dataset)
 - **AcehX Tokenizer Vocabulary**
 - **[AcehXBERT-base](https://huggingface.co/doniNlp/AcehXBERT-base) (MLM Model)**
-- **[AcehXBERT-sentiment](https://huggingface.co/doniNlp/AcehXBERT-sentiment) Classification Model)**
+- **[AcehXBERT-sentiment](https://huggingface.co/doniNlp/AcehXBERT-sentiment) (Classification Model)**
 
 AcehXBERT is introduced in the paper:
 
