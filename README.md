@@ -146,12 +146,14 @@ You can find the full details in our paper:
 
 If you use AcehX or AcehXBERT, please cite:
 ```bibtex
-@inproceedings{sukiswo-etal-2025-acehx,
-    title     = {Development of AcehX for Sentiment Analysis Using a BERT-Based Model},
-    author    = {Doni Sumito Sukiswo and Hammam Riza and Muhammad Subianto
-                 and Taufik Fuadi Abidin and Afnan Afnan},
-    booktitle = "Proceedings of the The 28th International Conference of Oriental COCOSDA ",
-    month = november,
-    year      = {2025}
-}
+@INPROCEEDINGS{11384824,
+  author={Sukiswo, Doni Sumito and Riza, Hammam and Subianto, Muhammad and Abidin, Taufik Fuadi and Afnan},
+  booktitle={2025 28th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)}, 
+  title={Development of Acehx for Sentiment Analysis Using a Bert-Based Model}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Training;Adaptation models;Sentiment analysis;Analytical models;Vocabulary;Technological innovation;Linguistics;Transformers;Cultural differences;Artificial intelligence;AcehX;sentiment analysis;NLP;transformers;BERT;deep learning},
+  doi={10.1109/O-COCOSDA68185.2025.11384824}}
 ```
