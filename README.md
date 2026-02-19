@@ -106,7 +106,7 @@ AcehXBERT is created by:
 | NusaBERT Base | 75.36% |
 | BERT Base | 73.78% |
 | IndoBERT Base | 73.00% |
-| RoBERTa Base | 72,77% |
+| RoBERTa Base | 72.77% |
 
 
 AcehXBERT outperforms existing Indonesian and multilingual BERT models.
