@@ -12,7 +12,7 @@ This repository contains:
 
 AcehXBERT is introduced in the paper:
 
-**“[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://)” (2025)**
+**“[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://ieeexplore.ieee.org/document/11384824)” (2025)**
 
 ## 📚 Dataset Overview
 
@@ -142,7 +142,7 @@ the following contributors:
 
 # Citation
 You can find the full details in our paper:  
-**[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://)**
+**[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://ieeexplore.ieee.org/document/11384824)**
 
 If you use AcehX or AcehXBERT, please cite:
 ```bibtex
