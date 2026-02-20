@@ -142,9 +142,14 @@ the following contributors:
 
 # Citation
 You can find the full details in our paper:  
-**[Development of AcehX for Sentiment Analysis Using a BERT-Based Model](https://ieeexplore.ieee.org/document/11384824)**
+**Development of AcehX for Sentiment Analysis Using a BERT-Based Model**
+
+Proceedings of the 28th O-COCOSDA Conference, IEEE, 2025
+
+https://doi.org/10.1109/O-COCOSDA68185.2025.11384824
 
 If you use AcehX or AcehXBERT, please cite:
+
 ```bibtex
 @INPROCEEDINGS{11384824,
   author={Sukiswo, Doni Sumito and Riza, Hammam and Subianto, Muhammad and Abidin, Taufik Fuadi and Afnan},
