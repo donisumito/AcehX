@@ -1,14 +1,40 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: If you use this software, please cite both the article from preferred-citation and the software itself.
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "AcehX"
+  - family-names: Sukiswo
+    given-names: Doni Sumito
+  - family-names: Riza
+    given-names: Hammam
+  - family-names: Subianto
+    given-names: Muhammad
+  - family-names: Abidin
+    given-names: Taufik Fuadi
+  - name: Afnan
+title: Development of Acehx for Sentiment Analysis Using a Bert-Based Model
 version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-02-27
-url: "https://github.com/donisumito/AcehX"
+doi: 10.1109/O-COCOSDA68185.2025.11384824
+date-released: '2026-02-18'
+preferred-citation:
+  authors:
+    - family-names: Sukiswo
+      given-names: Doni Sumito
+    - family-names: Riza
+      given-names: Hammam
+    - family-names: Subianto
+      given-names: Muhammad
+    - family-names: Abidin
+      given-names: Taufik Fuadi
+    - name: Afnan
+  title: Development of Acehx for Sentiment Analysis Using a Bert-Based Model
+  doi: 10.1109/O-COCOSDA68185.2025.11384824
+  type: conference-paper
+  pages: 1-6
+  year: '2025'
+  collection-title: 2025 28th Conference of the Oriental COCOSDA International Committee for the Co-ordination and Standardisation of Speech Databases and Assessment Techniques (O-COCOSDA)
+  conference:
+    name: "The 28th International Conference of the Oriental COCOSDA (O-COCOSDA 2025)"
+    location: "Yogyakarta, Indonesia"
+    date-start: "2025-11-12"
+    date-end: "2025-11-14"
+  publisher:
+    name: "IEEE"
